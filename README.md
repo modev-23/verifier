@@ -5,7 +5,7 @@ A simple Go program for domain verification. This project was built as a learnin
 ## Features
 - Verifies if a domain is active and reachable.
   
-## Future Plans
+## TODO
 - Add support for checking multiple domains simultaneously.
 - Transform this into a CLI tool for ease of use.
 - Eventually deploy as a web application.
